@@ -1,0 +1,16 @@
+{
+  "name": "poc-publish-monorepo-app",
+  "version": "1.0.0",
+  "description": "POC publish multiple applications with monorepo into NPM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonardorpr/poc-monorepo-publish-npm",
+    "directory": "packages/app"
+  },
+  "author": "Leonardo Pinheiro <leonardo.pinheiro.dev@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "poc-publish-monorepo-core": "1.0.0"
+  }
+}

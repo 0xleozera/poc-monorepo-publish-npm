@@ -1,0 +1,17 @@
+{
+  "name": "poc-monorepo-publish-npm",
+  "description": "POC publish multiple applications with monorepo into NPM",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
+    "refresh": "yarn clean -y && yarn bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^6.0.3",
+    "prettier": "^2.7.1"
+  }
+}
