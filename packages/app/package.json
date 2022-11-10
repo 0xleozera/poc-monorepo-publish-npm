@@ -2,6 +2,7 @@
   "name": "poc-publish-monorepo-app",
   "version": "1.0.0",
   "description": "POC publish multiple applications with monorepo into NPM",
+  "private": false,
   "main": "index.js",
   "repository": {
     "type": "git",
