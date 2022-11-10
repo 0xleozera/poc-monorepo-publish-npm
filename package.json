@@ -6,6 +6,8 @@
     "packages/*"
   ],
   "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version",
     "bootstrap": "lerna bootstrap",
     "clean": "lerna clean",
     "refresh": "yarn clean -y && yarn bootstrap"
