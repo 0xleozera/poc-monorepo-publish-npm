@@ -8,6 +8,7 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
+    "release": "changeset publish",
     "bootstrap": "lerna bootstrap",
     "clean": "lerna clean",
     "refresh": "yarn clean -y && yarn bootstrap"

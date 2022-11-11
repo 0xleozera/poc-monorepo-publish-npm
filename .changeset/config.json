@@ -5,7 +5,7 @@
     { "repo": "leonardorpr/poc-monorepo-publish-npm" }
   ],
   "commit": false,
-  "fixed": [],
+  "fixed": [["poc-publish-monorepo-core", "poc-publish-monorepo-app"]],
   "linked": [],
   "access": "restricted",
   "baseBranch": "main",
