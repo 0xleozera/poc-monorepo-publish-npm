@@ -2,8 +2,8 @@ name: 🕊 Release
 on:
   push:
     branches:
-      - release
-      - 'release-*'
+      - 'release/*'
+      - 'beta/*'
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
