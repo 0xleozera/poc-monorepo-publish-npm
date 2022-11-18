@@ -6,6 +6,7 @@
     "poc-publish-monorepo-core": "1.0.0"
   },
   "changesets": [
+    "lemon-fireants-roll",
     "seven-hornets-dance"
   ]
 }
