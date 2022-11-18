@@ -1,5 +1,11 @@
 # poc-publish-monorepo-core
 
+## 1.1.0-beta.1
+
+### Patch Changes
+
+- [`3ffc010`](https://github.com/leonardorpr/poc-monorepo-publish-npm/commit/3ffc010a39cec35408680ad377645e7ca8409e31) Thanks [@leonardorpr](https://github.com/leonardorpr)! - fix new feature
+
 ## 1.1.0-beta.0
 
 ### Minor Changes
