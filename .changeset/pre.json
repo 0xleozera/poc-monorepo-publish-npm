@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "poc-publish-monorepo-app": "1.0.0",
+    "poc-publish-monorepo-core": "1.0.0"
+  },
+  "changesets": []
+}
