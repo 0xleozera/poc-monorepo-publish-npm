@@ -8,6 +8,8 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
+    "beta": "changeset pre enter beta",
+    "beta:exit": "changeset pre exit",
     "release": "changeset publish",
     "bootstrap": "lerna bootstrap",
     "clean": "lerna clean",
